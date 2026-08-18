@@ -1,2 +1,2 @@
-# an-lise--dados--SETC
+# Análise--dados--SETC
 # Exercios de Aula.
